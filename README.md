@@ -10,18 +10,18 @@ Checklist para você acompanhar a entrega do MVP conforme requisitos da PUC-Rio:
 - [x] Salvar o arquivo `canvas-url.txt` na raiz do repositório do GitHub.
 
 ### 📝 Backlog do Produto (Jira)
-- [ ] Criar os itens do backlog no Jira listando épicos, features e histórias de usuário (e enablers, se necessário).
-- [ ] Garantir que o backlog tenha pelo menos 1 requisito não funcional.
-- [ ] Certificar-se de que os itens possuem as informações relevantes (detalhamentos, prioridades, estimativas e critérios de aceitação).
-- [ ] Escrever os critérios de aceitação no formato BDD (Dado/Quando/Então).
-- [ ] Incluir no final do documento o **Definition of Ready (DoR)** e o **Definition of Done (DoD)**.
-- [ ] Exportar tudo de forma legível e gerar um arquivo PDF nomeado como `product-backlog.pdf`.
-- [ ] Salvar o arquivo `product-backlog.pdf` na raiz do repositório.
+- [x] Criar os itens do backlog no Jira listando épicos, features e histórias de usuário (e enablers, se necessário).
+- [x] Garantir que o backlog tenha pelo menos 1 requisito não funcional.
+- [x] Certificar-se de que os itens possuem as informações relevantes (detalhamentos, prioridades, estimativas e critérios de aceitação).
+- [x] Escrever os critérios de aceitação no formato BDD (Dado/Quando/Então).
+- [x] Incluir no final do documento o **Definition of Ready (DoR)** e o **Definition of Done (DoD)**.
+- [x] Exportar tudo de forma legível e gerar um arquivo PDF nomeado como `product-backlog.pdf`.
+- [x] Salvar o arquivo `product-backlog.pdf` na raiz do repositório.
 
 ### 🏃 Backlog da Sprint (Jira)
-- [ ] Selecionar e detalhar totalmente as histórias de usuário que entrarão na primeira sprint.
-- [ ] Gerar uma versão legível do backlog da sprint em PDF.
-- [ ] Salvar o arquivo com o nome `sprint-backlog.pdf` na raiz do repositório.
+- [x] Selecionar e detalhar totalmente as histórias de usuário que entrarão na primeira sprint.
+- [x] Gerar uma versão legível do backlog da sprint em PDF.
+- [x] Salvar o arquivo com o nome `sprint-backlog.pdf` na raiz do repositório.
 
 ### 📱 Protótipos de Interface (Figma) - *Concluído*
 - [x] Produzir wireframes de baixa fidelidade cobrindo as telas essenciais da primeira sprint.
